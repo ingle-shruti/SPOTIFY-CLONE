@@ -44,7 +44,7 @@ SPOTIFY-CLONE
 
 ## 📸 Screenshot
 
-*Add a screenshot of your project here.*
+![Spotify Clone](screenshots/home.png)
 
 ---
 
